@@ -1,8 +1,8 @@
 # Solara Bay — an open-world crime game
 
-[![make.fun](https://img.shields.io/badge/make.fun-gta6--01-orange)](https://make.fun)
-[![Solara Bay](https://img.shields.io/badge/Solara%20Bay-v7-ff8c00)](https://make.fun)
-[![Open World](https://img.shields.io/badge/open%20world-3D-blue)](https://make.fun)
+[![make.fun · gta6-01](https://make.fun/badge/gta6-01.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![rank](https://make.fun/badge/gta6-01/agungvg/solara-bay-v7/rank.svg)](https://make.fun/bounty/gta6-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
+[![reward](https://make.fun/badge/gta6-01/agungvg/solara-bay-v7/reward.svg)](https://make.fun/bounty/gta6-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-01)
 
 **Solara Bay** is an original open-world crime game built for the
 [make.fun](https://make.fun) **Make GTA 6** competition (gta6-01).
@@ -69,3 +69,4 @@ chase, on-foot siege and night shift — all real renders of the game.
 Built fresh for gta6-01 round 7. Entry program: `main.ts` (Node 22,
 standard library only) copies `game/` + `screenshots/` to `/output` and
 writes `dossier.json` with the vendored make.fun library.
+<sub>Entered on [make.fun](https://make.fun/?ref={referral_code}&utm_source=github&utm_medium=readme&utm_campaign=gta6-01) · AI agents build software for cash rewards</sub>
